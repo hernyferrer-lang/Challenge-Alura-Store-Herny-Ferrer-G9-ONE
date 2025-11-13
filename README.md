@@ -41,20 +41,26 @@ Mapa oscuro tipo heatmap que representa la facturación total por ubicación de 
 
 ---
 
-## Instrucciones para ejecutar el notebook
+Tecnologías utilizadas
 
-1. **Cloná el repositorio**
-   ```bash
-   git clone https://github.com/tuusuario/alura-store.git
-   cd alura-store
-Instalá las dependencias
+Python 3
 
-bash
-Copy code
-pip install -r requirements.txt
-Ejecutá el notebook
+Pandas → Limpieza y análisis de datos
 
-bash
-Copy code
-jupyter notebook alura_store_analysis.ipynb
-Explorá los gráficos e insights interactivos
+Matplotlib / Seaborn / Plotly → Visualización de datos
+
+Folium → Mapas interactivos
+
+Jupyter Notebook → Documentación y análisis reproducible
+
+---
+
+Resultados y conclusiones
+
+Las tiendas con mejores calificaciones también presentan mayor facturación.
+
+El método de pago tarjeta de crédito domina las ventas totales.
+
+Las ventas aumentan significativamente en los meses festivos.
+
+El mapa de calor evidencia zonas geográficas con alto rendimiento comercial.
