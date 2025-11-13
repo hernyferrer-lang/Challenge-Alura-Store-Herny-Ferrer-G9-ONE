@@ -1,4 +1,4 @@
-<em> # Challenge Alura Store - Análisis de Ventas by Herny Ferrer </em>
+<em> ## Challenge Alura Store - Análisis de Ventas by Herny Ferrer </em>
 
 Proyecto de análisis exploratorio de datos realizado sobre el dataset **Alura Store**, con el objetivo de identificar patrones de venta, métodos de pago más utilizados, desempeño por tienda y otros indicadores clave de facturación.
 
