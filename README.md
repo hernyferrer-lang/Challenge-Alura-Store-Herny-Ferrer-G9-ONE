@@ -15,23 +15,6 @@ El análisis busca:
 
 ---
 
-## Estructura del proyecto
-
-📂 alura_store/
-│
-├── 📄 README.md # Documentación del proyecto
-├── 📓 alura_store_analysis.ipynb # Notebook principal con el análisis
-├── 📊 data/
-│ └── tiendas.csv # Dataset utilizado
-├── 📁 images/
-│ ├── facturacion_pago.png
-│ ├── calificacion_tienda.png
-│ └── mapa_calor.png # Ejemplos de visualizaciones
-└── 📜 requirements.txt # Librerías necesarias
-
----
-
-
 ## Ejemplos de gráficos e insights
 
 ### Facturación total por método de pago
