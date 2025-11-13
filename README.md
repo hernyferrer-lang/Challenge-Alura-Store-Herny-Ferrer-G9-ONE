@@ -22,7 +22,6 @@ Gráfico de barras horizontales que muestra qué medios de pago concentran mayor
 
 **Insight:** El método de pago *Tarjeta de crédito* representa más del 60% de las ventas totales, indicando preferencia por el financiamiento en cuotas.
 
-![Facturación por método de pago](images/facturacion_pago.png)
 
 ---
 
@@ -31,7 +30,6 @@ Ranking de tiendas según la calificación promedio otorgada por los clientes.
 
 **Insight:** Las tiendas con mejor atención tienen una correlación directa con un ticket promedio más alto.
 
-![Calificación por tienda](images/calificacion_tienda.png)
 
 ---
 
@@ -40,7 +38,6 @@ Mapa oscuro tipo heatmap que representa la facturación total por ubicación de 
 
 **Insight:** La zona centro presenta mayor densidad de ventas, siendo el principal polo comercial de la marca.
 
-![Mapa de calor](images/mapa_calor.png)
 
 ---
 
