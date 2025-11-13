@@ -32,8 +32,6 @@ El análisis busca:
 ---
 
 
----
-
 ## 📈 Ejemplos de gráficos e insights
 
 ### 💳 Facturación total por método de pago
@@ -69,3 +67,14 @@ Mapa oscuro tipo heatmap que representa la facturación total por ubicación de 
    ```bash
    git clone https://github.com/tuusuario/alura-store.git
    cd alura-store
+Instalá las dependencias
+
+bash
+Copy code
+pip install -r requirements.txt
+Ejecutá el notebook
+
+bash
+Copy code
+jupyter notebook alura_store_analysis.ipynb
+Explorá los gráficos e insights interactivos
