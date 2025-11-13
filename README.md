@@ -51,8 +51,6 @@ Matplotlib / Seaborn / Plotly → Visualización de datos
 
 Folium → Mapas interactivos
 
-Jupyter Notebook → Documentación y análisis reproducible
-
 ---
 
 Resultados y conclusiones
