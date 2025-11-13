@@ -32,9 +32,9 @@ El análisis busca:
 ---
 
 
-## 📈 Ejemplos de gráficos e insights
+## Ejemplos de gráficos e insights
 
-### 💳 Facturación total por método de pago
+### Facturación total por método de pago
 Gráfico de barras horizontales que muestra qué medios de pago concentran mayor volumen de facturación.
 
 **Insight:** El método de pago *Tarjeta de crédito* representa más del 60% de las ventas totales, indicando preferencia por el financiamiento en cuotas.
@@ -43,7 +43,7 @@ Gráfico de barras horizontales que muestra qué medios de pago concentran mayor
 
 ---
 
-### 🏬 Calificación promedio por tienda
+### Calificación promedio por tienda
 Ranking de tiendas según la calificación promedio otorgada por los clientes.
 
 **Insight:** Las tiendas con mejor atención tienen una correlación directa con un ticket promedio más alto.
@@ -52,7 +52,7 @@ Ranking de tiendas según la calificación promedio otorgada por los clientes.
 
 ---
 
-### 🌎 Mapa de calor de facturación
+### Mapa de calor de facturación
 Mapa oscuro tipo heatmap que representa la facturación total por ubicación de tienda.
 
 **Insight:** La zona centro presenta mayor densidad de ventas, siendo el principal polo comercial de la marca.
@@ -61,7 +61,7 @@ Mapa oscuro tipo heatmap que representa la facturación total por ubicación de 
 
 ---
 
-## ⚙️ Instrucciones para ejecutar el notebook
+## Instrucciones para ejecutar el notebook
 
 1. **Cloná el repositorio**
    ```bash
